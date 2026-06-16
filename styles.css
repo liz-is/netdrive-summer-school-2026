@@ -1,0 +1,10 @@
+h1.title {
+  font-size: 200%
+}
+
+div.quarto-title-authors {
+  background-image: url(images/KCL_Logo.png), url(images/netdrive_logo.png);
+  background-repeat: no-repeat;
+  background-position: bottom left, bottom right;
+  background-size: 120px, 200px;
+}
